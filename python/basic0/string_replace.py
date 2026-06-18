@@ -1,1 +1,0 @@
-print("hello".replace("h", "y"))
